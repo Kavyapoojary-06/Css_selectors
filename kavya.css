@@ -1,0 +1,42 @@
+
+p {
+    color: #be1d1d;
+    font-size: 20px;
+}
+
+
+#highlight{
+    background-color: #f9e158;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+
+a[href="https://www.linkedin.com/in/kavya-342347254"] {
+    color: #0679f5;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+.btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+   
+    cursor: pointer;
+
+}
+
+.btn:hover {
+    background-color: #c91670;
+}
+body{
+    text-align: center;
+   
+}
+#main{
+    text-decoration: underline;
+}
